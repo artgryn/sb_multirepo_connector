@@ -1,0 +1,17 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb://localhost/core_db
+            username:
+            password:
+            port: 27017
+            host: localhost
+
+datasource:
+    history:
+        mongodb:
+            uri: mongodb://localhost/history_db
+            username:
+            password:
+            port: 27017
+            host: localhost

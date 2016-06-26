@@ -1,0 +1,26 @@
+# Random Development Junk like eclipse and NetBeans and intellij
+*.log
+*.iml
+.idea
+bundles/
+.classpath
+.project
+.settings
+.DS_Store
+.metadata
+nb-*
+nba*
+rebel.xml
+build
+.gradle
+.nb-gradle
+*nb-private
+*.pyc
+bin
+private
+.eslintrc
+node_modules
+.springBeans
+.*.swp
+**/src/main/generated
+.factorypath
